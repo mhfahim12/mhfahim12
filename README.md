@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**mhfahim12/mhfahim12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FAHIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
